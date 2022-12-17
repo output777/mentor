@@ -1,1 +1,1 @@
-1. [chore] github pages CI/CD 적용
+1. [chore] github pages CI/CD 적용!!
